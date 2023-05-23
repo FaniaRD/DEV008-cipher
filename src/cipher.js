@@ -1,5 +1,6 @@
 const cipher = {
   encode: function (offset, message) {
+    message = message.toUpperCase()
     if (typeof offset !== "number" || typeof message !== "string") {
       throw new TypeError("Wrong argument types");
     }
@@ -21,6 +22,7 @@ const cipher = {
     return encryptedMessage;
   },
   decode: function (offset, encryptedMessage) {
+    encryptedMessage = encryptedMessage.toUpperCase()
     if (typeof offset !== "number" || typeof encryptedMessage !== "string") {
       throw new TypeError("Wrong argument types");
     }

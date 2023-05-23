@@ -26,8 +26,8 @@ html {
     display: flex;
   }
   #julio{
-      float: left;
-       
+    float: left;
+    padding: 5px;    
   }
   #cleo{
     float: right
@@ -57,7 +57,7 @@ html {
   } */
   label {
     color: white;
-    font-family: fantasy;
+    font-family: 'Cinzel', serif;
     font-size: 20px;
   }
   .button {

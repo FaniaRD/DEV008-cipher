@@ -6,11 +6,7 @@
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Consideraciones generales](#3-consideraciones-generales)
 * [4. Hito: Criterios de aceptación mínimos del proyecto](#4-hito-criterios-de-aceptación-mínimos-del-proyecto)
-* [5. Hito Opcional: Agrega soporte para minúsculas y otros caracteres](#5-hito-opcional-agrega-soporte-para-minúsculas-y-otros-caracteres)
-* [6. Consideraciones técnicas](#6-consideraciones-técnicas)
-* [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Para considerar Project Feedback](#9-para-considerar-project-feedback)
+
 
 ***
 
